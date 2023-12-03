@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 [![Linkedin: naveen521kk](https://img.shields.io/badge/-naveen521kk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen521kk/)](https://www.linkedin.com/in/naveen521kk/)
 [![GitHub followers](https://img.shields.io/github/followers/naveen521kk?label=Follow&style=social)](https://github.com/naveen521kk)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.naveenmk.me/)](https://www.naveenmk.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=naveen521kk.naveen521kk)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/naveen521kk/count.svg" />
+</p>
 
 Wow, I never thought I would be writing a README for my GitHub profile. But here I am, doing just that 😄.
 
