@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Wow, I never thought I would be writing a README for my GitHub profile. But here I am, doing just that 😄.
 
-![coding boy](https://github.com/naveen521kk/naveen521kk/assets/49693820/8182173f-5d55-4eac-b816-d5665659cafc)
+<img src="https://github.com/naveen521kk/naveen521kk/assets/49693820/8182173f-5d55-4eac-b816-d5665659cafc" width="200"  align="right">
 
 👇 Hit in your console or terminal to connect with me.
 
