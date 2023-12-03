@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Naveen M K](https://github.com/naveen521kk/naveen521kk/assets/49693820/7833e068-330c-4852-8b84-cdabdc663ccf)
+![Naveen M K](https://github.com/naveen521kk/naveen521kk/assets/49693820/7febebc1-b02a-4330-a0cb-d8b68952eded)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/naveen521kk?label=Follow)](https://twitter.com/intent/follow?screen_name=naveen521kk)
 [![Linkedin: naveen521kk](https://img.shields.io/badge/-naveen521kk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen521kk/)](https://www.linkedin.com/in/naveen521kk/)
