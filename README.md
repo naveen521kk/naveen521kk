@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Wow, I never thought I would be writing a README for my GitHub profile. But here I am, doing just that 😄.
 
-<img src="https://github.com/naveen521kk/naveen521kk/assets/49693820/8182173f-5d55-4eac-b816-d5665659cafc" width="200"  align="right">
+<img src="https://github.com/naveen521kk/naveen521kk/assets/49693820/8182173f-5d55-4eac-b816-d5665659cafc" width="250"  align="right">
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -32,8 +32,26 @@ Wow, I never thought I would be writing a README for my GitHub profile. But here
 npx naveenmk
 ```
 
-See my pinned section below to know about my work.
+### Stats 📈
+
+![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveen521kk&show_icons=true&hide_border=true&theme=dark)
+
+### Projects
+
+I've worked on various open source projects. Here are some notable ones:
+
+- [**Manim**](https://manim.community/): An animation engine for explanatory math videos. 
+    - I'm currently one of the maintainer of the project and also work on the infrastructure for the community.
+    - Notably, I've worked on Text rendering and Boolean operations
+    - Author of [ManimPango](https://github.com/ManimCommunity/ManimPango).
+    - I've also worked on lot of things on the website and documentation of the project.
+- [**MSYS2**](https://www.msys2.org/): A software distro and building platform for Windows.
+    - Worked on packaging various projects, some notable ones are [CPython](https://github.com/msys2-contrib/cpython-mingw) and [TexLive](https://github.com/msys2/msys2-texlive/).
+
+See my pinned repositories below to know more about my work.
 
 I'm currently a student and check out my linkedin profile to know more about me.
+
+I also write blogs on [my website](https://www.naveenmk.me/).
 
 See ya 👋🏼
