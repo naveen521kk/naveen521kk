@@ -82,6 +82,6 @@ See my pinned repositories below to know more about my work.
 
 I'm currently a student and check out my linkedin profile to know more about me.
 
-I also write blogs on [my website](https://www.naveenmk.me/).
+I also write blogs on [my website](https://www.naveenmk.me/posts).
 
 See ya 👋🏼
