@@ -64,11 +64,12 @@ npx naveenmk
 
 
 > [!NOTE]\
-> Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+> Top languages do not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 ### Projects
 
-I've worked on various open source projects. Here are some notable ones:
+See https://projects.naveenmk.me/projects/ for a list of projects I've worked on.
+I've worked on various open-source projects. Here are some notable ones:
 
 - [**Manim**](https://manim.community/): An animation engine for explanatory math videos. 
     - I'm currently one of the maintainer of the project and also work on the infrastructure for the community.
