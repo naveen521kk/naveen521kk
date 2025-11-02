@@ -16,14 +16,11 @@ Here are some ideas to get you started:
 ![Naveen M K](https://github.com/naveen521kk/naveen521kk/assets/49693820/3dc837fe-52da-425e-b105-fe8b2e9638ea)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/naveen521kk?label=Follow)](https://twitter.com/intent/follow?screen_name=naveen521kk)
-[![Linkedin: naveen521kk](https://img.shields.io/badge/-naveen521kk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen521kk/)](https://www.linkedin.com/in/naveen521kk/)
+[![Linkedin: naveen521kk](https://img.shields.io/badge/-naveen521kk-blue?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white&link=https://www.linkedin.com/in/naveen521kk/)](https://www.linkedin.com/in/naveen521kk/)
 [![GitHub followers](https://img.shields.io/github/followers/naveen521kk?label=Follow&style=social)](https://github.com/naveen521kk)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.naveenmk.me/)](https://www.naveenmk.me/)
+![](https://komarev.com/ghpvc/?username=naveen521kk&style=flat-square)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/naveen521kk/count.svg" />
-</p>
 
 Wow, I never thought I would be writing a README for my GitHub profile. But here I am, doing just that 😄.
 
